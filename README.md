@@ -1,2 +1,4 @@
 # Predictive-analytics
-Create a predictive analytical model for a retail store chain to increase revenue. Segmentation based on consumer behavior, market basket analysis, elasticity modeling and survival analysis are key aspects considered in this project.
+Developed a unsupervised learning algorithm on the scanner data of SHOPKO retail chain store. 
+Applied affinity analysis, elasticity modelling and survival analysis to increase revenue by 2.7%. 
+Developed store group analysis model which increased sales by 7%
